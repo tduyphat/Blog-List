@@ -1,0 +1,7 @@
+PUT http://localhost:3003/api/blogs/63e2c954ffbd3891eff85593
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRkdXlwaGF0IiwiaWQiOiI2M2QxZmFiOGNlNmQzNzljNzkzYjkyMmQiLCJpYXQiOjE2NzU4MDcyMzgsImV4cCI6MTY3NTgxMDgzOH0.--AdfEY_ToQjmPv2uE0R_c1_r2EwfoBAz9LGSyfJt3I
+
+{
+"comments": "keep it up!"
+}
